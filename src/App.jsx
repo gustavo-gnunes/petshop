@@ -1,3 +1,7 @@
+// para rodar esta aplicação
+// -> deve conectar com a pai do arquivo db.json que está na raiz deste projeto
+//   -> npx json-server --watch db.json --port 5000 e depois rodar o yarn start
+
 import React from "react";
 import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
 
